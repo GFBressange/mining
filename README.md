@@ -6,3 +6,5 @@ This included scripts for eliminating usual words.
 
 useful function in R: tm
 
+useful tools: various dictionaries specific to a language.
+
